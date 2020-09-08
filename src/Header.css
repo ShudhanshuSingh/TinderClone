@@ -1,0 +1,22 @@
+.tinder__logo{
+    height: 25vh;
+    width: 25vh;
+    object-fit: contain;
+    margin-top: -10px;
+  }
+  
+  .app__header{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .accountIcon{
+    font-size: larger!important;
+  }
+  
+  .chatIcon{
+    font-size: larger !important;
+  }
